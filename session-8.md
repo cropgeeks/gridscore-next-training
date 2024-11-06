@@ -3,6 +3,8 @@
   <img src="img/grirscore.svg" width="300" alt="GridScore">
 </p>
 
+<a href="index.html" class="btn btn-dark">Home</a>
+
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
 # Session 8: Advanced features
@@ -16,7 +18,7 @@ Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.
 
 Next Steps:  We've learned a bit about the more advanced features GridScore has on offer. This concludes the GridScore training for the time being. We will extend this training material in the future, so make sure to check back in every now and then and watch our social media channels.
 
-
+<a href="index.html" class="btn btn-dark">Home</a>
 
 > ## About
 > This training is free to use and released under a non-restrictive open source licence.

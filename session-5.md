@@ -3,6 +3,8 @@
   <img src="img/gridscore.svg" width="150" alt="GridScore">
 </p>
 
+<a href="index.html" class="btn btn-dark">Home</a>
+
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
 # Session 5: Visualizing data
@@ -13,6 +15,8 @@ Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.
 1. <details><summary>Q</summary>A</details>
 
 Next Steps:  We've learned a bit about visualizing data in GridScore, now [let's have a look at exporting this data in Session 6](session-6.html).
+
+<a href="index.html" class="btn btn-dark">Home</a>
 
 > ## About
 > This training is free to use and released under a non-restrictive open source licence.

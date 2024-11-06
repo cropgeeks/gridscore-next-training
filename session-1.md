@@ -3,6 +3,7 @@
   <img src="img/gridscore.svg" width="150" alt="GridScore">
 </p>
 
+<a href="index.html" class="btn btn-dark">Home</a>
 
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
@@ -63,6 +64,7 @@ Yes, GridScore is free to use for anyone whether you're using it for academic or
 
 Next Steps:  We have learned a bit about GridScore and how to access it, now [let's have a look at the main GridScore user interface in Session 2](session-2.html).
 
+<a href="index.html" class="btn btn-dark">Home</a>
 
 <br/>
 

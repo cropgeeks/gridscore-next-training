@@ -3,6 +3,8 @@
   <img src="img/gridscore.svg" width="150" alt="GridScore">
 </p>
 
+<a href="index.html" class="btn btn-dark">Home</a>
+
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
 # Session 7: Changing settings
@@ -14,6 +16,8 @@ Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.
 1. <details><summary>Q</summary>A</details>
 
 Next Steps:  We've learned a bit about changing GridScore's settings, now [let's have a look at some of the more advanced features in Session 8](session-8.html).
+
+<a href="index.html" class="btn btn-dark">Home</a>
 
 > ## About
 > This training is free to use and released under a non-restrictive open source licence.

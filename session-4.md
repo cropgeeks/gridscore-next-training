@@ -3,6 +3,8 @@
   <img src="img/gridscore.svg" width="150" alt="GridScore">
 </p>
 
+<a href="index.html" class="btn btn-dark">Home</a>
+
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
 
@@ -14,6 +16,8 @@ Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.
 1. <details><summary>Q</summary>A</details>
 
 Next Steps:  We have learned a bit about collecting data with GridScore, now [let's have a look at visualizing that data in Session 5](session-5.html).
+
+<a href="index.html" class="btn btn-dark">Home</a>
 
 > ## About
 > This training is free to use and released under a non-restrictive open source licence.

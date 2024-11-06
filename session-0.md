@@ -3,6 +3,8 @@
   <img src="img/gridscore.svg" width="150" alt="GridScore">
 </p>
 
+<a href="index.html" class="btn btn-dark">Home</a>
+
 # Before we start...
 
 Firstly, thanks for taking the time to look at our GridScore training. Its a work in progress but we hope to develop it into a helpful resource on using the platform.
@@ -36,6 +38,8 @@ TODO
 Next Steps: [GridScore Session 1 Getting Started and Introduction to GridScore](session-1.html)
 
 <br/>
+
+<a href="index.html" class="btn btn-dark">Home</a>
 
 > ## About
 > This training is free to use and released under a non-restrictive open source licence.

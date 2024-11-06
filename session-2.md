@@ -3,7 +3,7 @@
   <img src="img/gridscore.svg" width="150" alt="GridScore">
 </p>
 
-
+<a href="index.html" class="btn btn-dark">Home</a>
 
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
@@ -46,6 +46,8 @@ GridScore supports different languages. By default, it'll start up in English, b
 
 
 Next Steps:  We have learned a bit about the GridScore interface and where basic tools are located, now [let's have a look at creating a trial in Session 3](session-3.html).
+
+<a href="index.html" class="btn btn-dark">Home</a>
 
 > ## About
 > This training is free to use and released under a non-restrictive open source licence.
