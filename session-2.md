@@ -57,6 +57,7 @@ For more options for each trial are available in the dropdown menu accessible fr
 <img src="session-2/trial-selector-options.png" style="max-width: 50%;">
 
 ## Tasks:
+### Click on the questions to reveal the answers or more information.
 
 1. <details><summary>How many languages is GridScore available in?</summary>Answer: 3 - English, German and Vietnamese.</details>
 

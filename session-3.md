@@ -59,7 +59,54 @@ The trait list on the right side shows all the traits that have already been def
 
 <img src="session-3/trial-setup-traits.png" style="max-width: 100%;">
 
+## Create a new trial
+
+Try and create a new trial with a 2x2 grid same as the image below.
+
+<img src="session-3/trial-example.png" style="max-width: 75%;">
+
+Name the plots/subjects `A`, `B`, `C` and `D`.
+
+Then define the following traits:
+
+- **Flower colour**: `Category` with options
+  ```
+  white
+  red
+  pink
+  purple
+  orange
+  blue
+  ```
+- **Flower shape**: `Category` with options 
+  ```
+  cruciate
+  rotate
+  funnelform
+  campanulate
+  bilabiate
+  papilionaceous
+  ```
+- **Petal count**: `Whole number` with minimum `0` and maximum `100`.
+- **Plant height**: `Whole number` with minimum `0` and maximum `200`.
+- **Crop**: `Category` with options
+  ```
+  barley
+  grasspea
+  potato
+  raspberry
+  rice
+  strawberry
+  sunflower
+  tomato
+  ```
+
+<img src="session-3/trial-example-flower-shape.png" style="max-width: 75%;">
+
+Enter an arbitrary trial name and create the trial.
+
 ## Tasks:
+### Click on the questions to reveal the answers or more information.
 
 1. <details><summary>What are the three things that need to be specified for each trial?</summary>1. The trial name, 2. the trial layout and 3. the traits.</details>
 1. <details><summary>If your data collection use-case doesn't use a grid-like layout, how many columns and rows should you specify?</summary>Only a single column and as many rows as there are subjects should be specified.</details>

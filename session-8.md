@@ -12,6 +12,7 @@ Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.
 
 
 ## Tasks
+### Click on the questions to reveal the answers or more information.
 
 1. <details><summary>Q</summary>A</details>
 
