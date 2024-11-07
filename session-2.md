@@ -40,6 +40,22 @@ GridScore supports different languages. By default, it'll start up in English, b
 
 <img src="session-2/home-german.png" style="max-width: 100%;">
 
+## Home page
+
+The home page of GridScore is the first page you see when GridScore starts. It contains the most frequently used functionalities - the action buttons and the trial selector. The action buttons quickly let you do things like creating a new trial, importing a trial, loading an example trial or changing the settings.
+
+<img src="session-2/home.png" style="max-width: 100%;">
+
+The trial selector shows you all your trials that are available on your current device. You can filter and sort the list to search for specific trials and change the way they are displayed using the controls above the trial list.
+
+Each trial is shown as a card with its name, description and some key characteristics like trial dimensions, number of traits and when it was last active. To start collecting data, look at visualizations or export data from a trial, select the trial first using the `Load trial` button.
+
+<img src="session-2/trial-selector.png" style="max-width: 100%;">
+
+For more options for each trial are available in the dropdown menu accessible from the cog icon in the bottom right. These include: sharing, duplicating or editing a trial, adding traits or people as well as importing pre-existing data and deleting the trial. Depending on your permissions on the trial, some of these options may not be available.
+
+<img src="session-2/trial-selector-options.png" style="max-width: 50%;">
+
 ## Tasks:
 
 1. <details><summary>How many languages is GridScore available in?</summary>Answer: 3 - English, German and Vietnamese.</details>
