@@ -7,6 +7,7 @@
 
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
+> GridScore is available at https://gridscore.hutton.ac.uk
 
 # Session 3: Creating a trial
 
@@ -105,7 +106,7 @@ Then define the following traits:
 
 Enter an arbitrary trial name and create the trial.
 
-## Tasks:
+## Tasks
 ### Click on the questions to reveal the answers or more information.
 
 1. <details><summary>What are the three things that need to be specified for each trial?</summary>1. The trial name, 2. the trial layout and 3. the traits.</details>

@@ -9,11 +9,11 @@ Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.
 
 > Remember, the GridScore documentation with detailed descriptions of each aspect of GridScore is available in case you need it: https://cropgeeks.github.io/gridscore-next-client/
 
+> GridScore is available at https://gridscore.hutton.ac.uk
 
 # Session 1: Getting Started and Introduction to GridScore
 
 ## What is GridScore? 
-
 
 ## What data can I record with GridScore? 
 

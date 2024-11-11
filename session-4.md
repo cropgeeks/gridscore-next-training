@@ -7,6 +7,7 @@
 
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
+> GridScore is available at https://gridscore.hutton.ac.uk
 
 # Session 4: Collecting data
 
@@ -44,7 +45,7 @@ The more data you collect, the more colourful the data display is going to be wh
 
 <img src="session-4/data-entry.png" style="max-width: 100%;">
 
-## Tasks:
+## Tasks
 ### Click on the questions to reveal the answers or more information.
 
 1. <details><summary>What are the plot/subject selection methods to open the data input window?</summary>Clicking on a cell, scanning a barcode or using the guided walk.</details>

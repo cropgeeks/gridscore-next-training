@@ -7,6 +7,8 @@
 
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
+> GridScore is available at https://gridscore.hutton.ac.uk
+
 # Session 2: The GridScore User Interface
 
 This tutorial will guide you through the main components of the GridScore interface. We will explain where you can create trials, collect data and visualize data as well as where to change settings and languages.
@@ -56,7 +58,7 @@ For more options for each trial are available in the dropdown menu accessible fr
 
 <img src="session-2/trial-selector-options.png" style="max-width: 50%;">
 
-## Tasks:
+## Tasks
 ### Click on the questions to reveal the answers or more information.
 
 1. <details><summary>How many languages is GridScore available in?</summary>Answer: 3 - English, German and Vietnamese.</details>

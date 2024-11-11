@@ -7,6 +7,8 @@
 
 Contact us: [sebastian.raubach@hutton.ac.uk](mailto:sebastian.raubach@hutton.ac.uk) or [@germinatehub](https://www.twitter.com/germinatehub) on Twitter.
 
+> GridScore is available at https://gridscore.hutton.ac.uk
+
 # Session 7: Changing settings
 
 
