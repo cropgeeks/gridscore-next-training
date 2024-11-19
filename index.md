@@ -25,7 +25,7 @@ title: GridScore Training
 
 # GridScore training material
 
-Last Updated: 06th November 2024
+Last Updated: 19th November 2024
 
 The following material has been developed to allow you to get some experience in using GridScore. It can be taken at your own pace and each section forms a self contained set of learning materials. If you follow the order of the training material each will build on what you have learned in the previous.
 

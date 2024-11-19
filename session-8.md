@@ -1,6 +1,6 @@
 <!-- Use these horrible HTML tag attributes because Markdown only supports limited HTML/CSS -->
 <p align="center">
-  <img src="img/grirscore.svg" width="300" alt="GridScore">
+  <img src="img/gridscore.svg" width="300" alt="GridScore">
 </p>
 
 <a href="index.html" class="btn btn-dark">Home</a>
