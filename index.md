@@ -14,6 +14,9 @@ title: GridScore Training
         <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
       </td>
       <td align="center" valign="middle">
+        <img src="img/norway.svg" width="300" alt="Norway">
+      </td>
+      <td align="center" valign="middle">
         <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
       </td>
       <td align="center" valign="middle">
