@@ -46,6 +46,7 @@ Next Steps: [GridScore Session 1 Getting Started and Introduction to GridScore](
 
 <div class="logos">
   <img src="img/crop-trust.svg" width="300" alt="Crop Trust">
+  <img src="img/norway.svg" width="300" alt="Norway">
   <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
   <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
 </div>
