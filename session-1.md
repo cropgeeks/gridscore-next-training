@@ -76,4 +76,5 @@ Next Steps:  We have learned a bit about GridScore and how to access it, now [le
   <img src="img/norway.svg" width="300" alt="Norway">
   <img src="img/best-crop.svg" width="300" alt="BEST-CROP">
   <img src="img/hutton.svg" width="300" alt="The James Hutton Institute">
+  <img src="img/sfgin.jpg" width="300" alt="DEFRA Soft Fruit GIN">
 </div>
